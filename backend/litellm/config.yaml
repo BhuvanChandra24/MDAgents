@@ -1,0 +1,5 @@
+model_list:
+  - model_name: tngtech/deepseek-r1t-chimera
+    litellm_provider: openrouter
+    api_key: ${OPENROUTER_API_KEY}
+    api_base: https://openrouter.ai/api/v1

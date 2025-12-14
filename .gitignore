@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+chat_history.db
+
+# Node / React
+node_modules/
+dist/
+
+# OS
+.DS_Store
